@@ -21,6 +21,7 @@
 
     <tr><td align="left">Animation</td><td align="right">26</td><td align="left" nowrap><code>https://github.com/akkradet/IPTV-THAI/raw/master/IPTV-THAI.m3u8</code></td></tr>
 <tr><td align="left">Thai</td><td align="right">26</td><td align="left" nowrap><code>https://github.com/akkradet/IPTV-THAI/raw/master/IPTV-THAI.m3u8</code></td></tr>
+<tr><td align="left">Thai</td><td align="right">2</td><td align="left" nowrap><code>https://github.com/akkradet/IPTV-THAI/raw/master/IPTV-THAI.m3u8</code></td></tr>
 
   </tbody>
 
