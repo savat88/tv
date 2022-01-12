@@ -19,7 +19,7 @@
 
   <tbody>
 
-    <tr><td align="left">Animation</td><td align="right">26</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
+    <tr><td align="left">Animation</td><td align="right">26</td><td align="left" nowrap><code>https://github.com/akkradet/IPTV-THAI/raw/master/IPTV-THAI.m3u8</code></td></tr>
 
   </tbody>
 
@@ -49,7 +49,7 @@
 
   <tbody>
 
-    <tr><td align="left">Africa</td><td align="right">215</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/afr.m3u</code></td></tr>
+    <tr><td align="left">Africa</td><td align="right">215</td><td align="left" nowrap><code>https://github.com/akkradet/IPTV-THAI/raw/master/IPTV-THAI-V2.m3u8</code></td></tr>
   </tbody>
 
 </table>
