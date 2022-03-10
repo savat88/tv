@@ -1,0 +1,29 @@
+<channel>
+
+<title>SAVAT Radio</title>
+
+<item>
+
+<title>Listen Again: COOL fahrenheit</title>
+
+<description>
+
+</description>
+
+<pubDate>อัพเดทวันที่ :10 มีนาคม</pubDate>
+
+<itunes:image href="https://raw.githubusercontent.com/savat/test/master/930-cool-fm-full.jpg?s=1400"/>
+
+<itunes:duration>1</itunes:duration>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:episodeType>full</itunes:episodeType>
+
+<content:encoded>
+
+<enclosure url="https://coolism-web.cdn.byteark.com/;stream/1"/>
+
+</item>
+
+</channel>
